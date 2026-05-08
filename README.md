@@ -13,6 +13,7 @@ A simple Python number guessing game using random numbers and loops.
 - Random Module
 - Loops
 - Conditional staments(if-elif-else)
+- Error Handling Exceptions
 
 ## Sample Output
 - Enter Guessing number: 30
@@ -21,6 +22,8 @@ A simple Python number guessing game using random numbers and loops.
   Too High
 - Enter Guessing number: 38
   Congrats You guessed in 3 Attempts
+- If enter a worng values
+  Please enter numbers Only
 
  ## Author
 - Siva Penki
